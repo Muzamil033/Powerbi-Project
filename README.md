@@ -22,7 +22,8 @@ Identify the best-performing products.
 Compare product prices with generated revenue.
 
 Build an interactive dashboard with filters and visualizations.
-data set <a href="https://github.com/Muzamil033/Powerbi-Project/blob/main/clipkart_ecommerce_data.csv">
+data set
+<a href="https://github.com/Muzamil033/Powerbi-Project/blob/main/clipkart_ecommerce_data.csv">
 
 📈 Dashboard Visualizations
 
