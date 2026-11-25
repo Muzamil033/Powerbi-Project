@@ -39,6 +39,8 @@ Price vs Revenue: Analyzes the relationship between product prices and generated
 
 Interactive Filters: Allows users to filter the dashboard by category, year, quarter, month, and day.
 
+ Dashboard interaction <a href="https://github.com/Muzamil033/Powerbi-Project/blob/main/data%20visualization.png"> view Dashboard
+
 🔍 Key Business Insights
 
 Chennai generated the highest revenue among the five cities, with 1,425,707.
